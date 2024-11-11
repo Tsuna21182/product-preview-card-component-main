@@ -30,8 +30,8 @@ img {
   background-image: url(/images/image-product-mobile.jpg);
   background-position: center;
   background-repeat: no-repeat;
-  background-size: contain;
-  height: 25rem;
+  background-size: cover;
+  height: 35rem;
   border-radius: 2rem 2rem 0 0;
 }
 
@@ -47,7 +47,7 @@ img {
 [class*="contenedor"] {
   max-width: 120rem;
   margin: 15rem auto;
-  width: 95%;
+  width: 90%;
   background-color: var(--White);
   border-radius: 2rem;
 }
